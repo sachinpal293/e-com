@@ -1,0 +1,33 @@
+.hero-container{
+    height: 83vh;
+    margin-top: 30px;
+}
+.img-hero
+{
+    width: 100%; 
+    height: 400px;
+}
+.hero-container h1{
+    font-size: 48px;
+    font-weight: bold;
+}
+.hero-container p{
+   font-size: 20px;
+   font-weight: lighter;
+}
+
+.after-hero-section
+{
+    background-color: #78c701;
+    color: #fff;
+    height: 20vh;
+    padding: 18px;
+}
+.p-sec
+{
+    line-height: 0%;
+    text-align: justify;
+}
+.h-sec{
+    text-align: justify;
+}
